@@ -1,0 +1,8 @@
+E:\valwell.com\Code\appserver\01.开发库\03.代码\VALWELL.SmartKey\gotom.comm\obj\Debug\ResolveAssemblyReference.cache
+E:\valwell.com\Code\appserver\01.开发库\03.代码\VALWELL.SmartKey\gotom.comm\obj\Debug\gotom.comm.Properties.Resources.resources
+E:\valwell.com\Code\appserver\01.开发库\03.代码\VALWELL.SmartKey\gotom.comm\obj\Debug\gotom.comm.csproj.GenerateResource.Cache
+E:\valwell.com\Code\appserver\01.开发库\03.代码\VALWELL.SmartKey\gotom.comm\bin\Debug\gotom.comm.pdb
+E:\valwell.com\Code\appserver\01.开发库\03.代码\VALWELL.SmartKey\gotom.comm\obj\Debug\gotom.comm.pdb
+E:\valwell.com\Code\appserver\01.开发库\03.代码\VALWELL.SmartKey\gotom.comm\obj\Debug\gotom.comm.MainForm.resources
+E:\valwell.com\Code\appserver\01.开发库\03.代码\VALWELL.SmartKey\gotom.comm\bin\Debug\gotom.comm.dll
+E:\valwell.com\Code\appserver\01.开发库\03.代码\VALWELL.SmartKey\gotom.comm\obj\Debug\gotom.comm.dll

@@ -1,0 +1,16 @@
+E:\gotom.cn\gotom.comm\bin\Debug\xcomm.dll
+E:\gotom.cn\gotom.comm\bin\Debug\xcomm.pdb
+E:\gotom.cn\gotom.comm\obj\Debug\ResolveAssemblyReference.cache
+E:\gotom.cn\gotom.comm\obj\Debug\gotom.xcomm.Properties.Resources.resources
+E:\gotom.cn\gotom.comm\obj\Debug\gotom.xcomm.MainForm.resources
+E:\gotom.cn\gotom.comm\obj\Debug\gotom.xcomm.csproj.GenerateResource.Cache
+E:\gotom.cn\gotom.comm\obj\Debug\xcomm.dll
+E:\gotom.cn\gotom.comm\obj\Debug\xcomm.pdb
+E:\gotom.cn\gotom.xcomm\bin\Debug\xcomm.dll
+E:\gotom.cn\gotom.xcomm\bin\Debug\xcomm.pdb
+E:\gotom.cn\gotom.xcomm\obj\Debug\ResolveAssemblyReference.cache
+E:\gotom.cn\gotom.xcomm\obj\Debug\gotom.xcomm.Properties.Resources.resources
+E:\gotom.cn\gotom.xcomm\obj\Debug\gotom.xcomm.MainForm.resources
+E:\gotom.cn\gotom.xcomm\obj\Debug\gotom.xcomm.csproj.GenerateResource.Cache
+E:\gotom.cn\gotom.xcomm\obj\Debug\xcomm.dll
+E:\gotom.cn\gotom.xcomm\obj\Debug\xcomm.pdb
